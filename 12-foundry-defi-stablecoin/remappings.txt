@@ -1,0 +1,4 @@
+forge-std/=lib/forge-std/src/
+solmate/=lib/solmate/src/
+solady/=lib/solady/src/
+@chainlink/contracts/=lib/chainlink-brownie-contracts/contracts/

@@ -4,3 +4,21 @@
 [submodule "07-foundry-fund-me/lib/forge-std"]
 	path = 07-foundry-fund-me/lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "07-foundry-fund-me/lib/chainlink-brownie-contracts"]
+	path = 07-foundry-fund-me/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "07-foundry-fund-me/lib/foundry-devops"]
+	path = 07-foundry-fund-me/lib/foundry-devops
+	url = https://github.com/Cyfrin/foundry-devops
+[submodule "12-foundry-defi-stablecoin/lib/forge-std"]
+	path = 12-foundry-defi-stablecoin/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "12-foundry-defi-stablecoin/lib/solady"]
+	path = 12-foundry-defi-stablecoin/lib/solady
+	url = https://github.com/vectorized/solady
+[submodule "12-foundry-defi-stablecoin/lib/solmate"]
+	path = 12-foundry-defi-stablecoin/lib/solmate
+	url = https://github.com/transmissions11/solmate
+[submodule "12-foundry-defi-stablecoin/lib/chainlink-brownie-contracts"]
+	path = 12-foundry-defi-stablecoin/lib/chainlink-brownie-contracts
+	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
