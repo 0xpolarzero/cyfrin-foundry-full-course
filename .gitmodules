@@ -22,3 +22,6 @@
 [submodule "12-foundry-defi-stablecoin/lib/chainlink-brownie-contracts"]
 	path = 12-foundry-defi-stablecoin/lib/chainlink-brownie-contracts
 	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
+[submodule "12-foundry-defi-stablecoin/lib/halmos-cheatcodes"]
+	path = 12-foundry-defi-stablecoin/lib/halmos-cheatcodes
+	url = https://github.com/a16z/halmos-cheatcodes
